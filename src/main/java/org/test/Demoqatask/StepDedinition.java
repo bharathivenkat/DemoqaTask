@@ -90,7 +90,7 @@ e1.click();
 	public void user_verifies_whether_the_dropdown_default_value_is_same_or_not() throws Throwable {
 		WebElement contry = driver.findElement(By.xpath("//*[@id='dropdown_7']"));
 		
-		Assert.assertEquals("Afghanistan", contry.getAttribute("value"));
+		Assert.assertEquals("Afghanistan", contry.getText());
 		
 		
 	}

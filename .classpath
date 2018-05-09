@@ -36,5 +36,6 @@
 	<classpathentry kind="lib" path="C:/Users/User/Downloads/mockito-all-2.0.2-beta.jar"/>
 	<classpathentry kind="lib" path="C:/Users/User/Downloads/selenium-server-standalone-3.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/User/Downloads/cobertura-1.9.4.1-sources - Copy.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
